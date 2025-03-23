@@ -1,1 +1,0 @@
-// Reader dashboard with profile, rate, session buttons

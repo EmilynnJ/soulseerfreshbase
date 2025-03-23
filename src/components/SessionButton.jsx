@@ -1,1 +1,0 @@
-// Start session mock logic

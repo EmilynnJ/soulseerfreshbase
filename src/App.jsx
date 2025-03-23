@@ -1,1 +1,0 @@
-// Main App component for SoulSeer Lite
