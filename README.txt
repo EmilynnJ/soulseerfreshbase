@@ -1,0 +1,1 @@
+This is the SoulSeer Lite starter build. Deploy via AWS Amplify or S3.
