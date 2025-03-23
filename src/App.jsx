@@ -1,0 +1,1 @@
+// Root App component for SoulSeer Lite
