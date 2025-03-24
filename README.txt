@@ -1,1 +1,1 @@
-This is the real-time full version of the SoulSeer platform. Deploy on Amplify or export as PWA.
+SoulSeer real-time logic build. Dashboards + RTC session pages with placeholder logic for testing.
