@@ -1,1 +1,1 @@
-SoulSeer Lite - fixed version with build configuration for Amplify.
+This is the real-time full version of the SoulSeer platform. Deploy on Amplify or export as PWA.

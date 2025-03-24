@@ -1,1 +1,1 @@
-// Client dashboard
+// Client dashboard with start session, top-up

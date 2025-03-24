@@ -1,1 +1,1 @@
-// Start session button
+// Start/End session control

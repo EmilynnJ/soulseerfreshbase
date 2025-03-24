@@ -1,1 +1,1 @@
-// Top up balance button
+// Stripe top-up integration

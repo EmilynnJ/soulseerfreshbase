@@ -1,1 +1,1 @@
-// Admin dashboard
+// Admin dashboard with overview and controls

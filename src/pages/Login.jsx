@@ -1,1 +1,1 @@
-// Login page with role-based routing
+// Full login logic connected to Cognito

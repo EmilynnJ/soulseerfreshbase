@@ -1,1 +1,1 @@
-// Reader dashboard
+// Reader dashboard with session, profile, balance
