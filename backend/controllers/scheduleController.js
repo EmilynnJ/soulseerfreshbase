@@ -1,1 +1,1 @@
-// Schedule controller
+// Scheduling controller logic placeholder

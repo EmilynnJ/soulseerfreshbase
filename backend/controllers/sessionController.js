@@ -1,1 +1,1 @@
-// Session controller
+// RTC session tracking logic placeholder

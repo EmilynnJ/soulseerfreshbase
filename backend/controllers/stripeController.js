@@ -1,1 +1,1 @@
-// Stripe controller
+// Stripe logic placeholder

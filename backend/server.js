@@ -1,10 +1,11 @@
 
 const express = require('express');
 const cors = require('cors');
+require('dotenv').config();
+
 const stripeRoutes = require('./routes/stripe');
 const sessionRoutes = require('./routes/session');
 const scheduleRoutes = require('./routes/schedule');
-require('dotenv').config();
 
 const app = express();
 app.use(cors());

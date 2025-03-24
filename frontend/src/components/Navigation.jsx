@@ -1,1 +1,1 @@
-export default Navigation; 
+import React from 'react'; const Navigation = () => (<nav><ul><li>Nav Item</li></ul></nav>); export default Navigation;

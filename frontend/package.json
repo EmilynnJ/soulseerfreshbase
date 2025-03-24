@@ -1,6 +1,6 @@
 
 {
-  "name": "soulseer",
+  "name": "soulseer-frontend",
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
@@ -10,9 +10,7 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.0.0",
-    "socket.io-client": "^4.0.0",
-    "twilio-video": "^2.19.1"
+    "react-router-dom": "^6.0.0"
   },
   "devDependencies": {
     "vite": "^4.0.0",
