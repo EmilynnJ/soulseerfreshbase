@@ -1,1 +1,1 @@
-// Session start/end handlers
+// Session logic

@@ -1,1 +1,1 @@
-// Stripe logic here
+// Stripe controller

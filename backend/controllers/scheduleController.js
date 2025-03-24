@@ -1,1 +1,1 @@
-// Schedule logic here
+// Schedule controller

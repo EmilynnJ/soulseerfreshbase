@@ -15,4 +15,4 @@ app.use('/session', sessionRoutes);
 app.use('/schedule', scheduleRoutes);
 
 const PORT = process.env.PORT || 5000;
-app.listen(PORT, () => console.log(`Backend running on port ${PORT}`));
+app.listen(PORT, () => console.log(`SoulSeer backend running on port ${PORT}`));

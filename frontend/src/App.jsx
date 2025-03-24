@@ -1,1 +1,1 @@
-export default App; // TODO: Add routing and layouts for SoulSeer pages
+// SoulSeer full layout and routes will be in this file

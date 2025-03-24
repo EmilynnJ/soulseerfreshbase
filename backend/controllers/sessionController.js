@@ -1,1 +1,1 @@
-// Session logic here
+// Session controller
