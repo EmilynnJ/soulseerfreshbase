@@ -1,1 +1,1 @@
-
+import React from 'react'; export default function ReaderApplication() { return <h1>Apply to be a Reader</h1>; }

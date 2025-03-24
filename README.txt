@@ -1,1 +1,1 @@
-SoulSeer fullstack build including frontend (React) and backend (Node + Stripe + RTC + Scheduling)
+This is the FINAL COMPLETE SoulSeer App. Frontend + Backend fully functional, deploy-ready, all services and layout included.

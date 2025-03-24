@@ -1,1 +1,1 @@
-
+import React from 'react'; export default function Readers() { return <h1>Readers</h1>; }

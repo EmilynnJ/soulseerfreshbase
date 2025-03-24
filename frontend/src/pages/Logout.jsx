@@ -1,1 +1,1 @@
-
+import React from 'react'; export default function Logout() { return <h1>You’ve been logged out</h1>; }
