@@ -1,1 +1,1 @@
-SoulSeer real-time logic build. Dashboards + RTC session pages with placeholder logic for testing.
+SoulSeer fullstack build including frontend (React) and backend (Node + Stripe + RTC + Scheduling)
